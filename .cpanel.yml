@@ -3,7 +3,7 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/fmcsproc/futech.fmcspro.ca/
-    - /bin/cp -R Test $DEPLOYPATH
+    - /bin/cp Test $DEPLOYPATH
 #    - /bin/cp -R assets $DEPLOYPATH
 #    - /bin/cp -R css $DEPLOYPATH
 #    - /bin/cp -R fonts $DEPLOYPATH
